@@ -25,7 +25,7 @@ pandas
 
 Input files (adjust paths as needed):
 
-Copy of Malik_RR.csv – voter file with columns Precinct, Name First, Name Last, Voter ID
+Copy of Vlist.csv – voter file with columns Precinct, Name First, Name Last, Voter ID
 
 Names list WArabchristians.csv – Central African names (must contain First Name and Last Name)
 
